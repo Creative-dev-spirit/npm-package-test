@@ -1,0 +1,24 @@
+{
+  "name": "npm-package-test",
+  "version": "1.0.0",
+  "description": "Hello world for publish npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Creative-dev-spirit/npm-package-test.git"
+  },
+  "keywords": [
+    "hello-world",
+    "npm",
+    "git"
+  ],
+  "author": "Manuel Martínez Fernández",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Creative-dev-spirit/npm-package-test/issues"
+  },
+  "homepage": "https://github.com/Creative-dev-spirit/npm-package-test#readme"
+}
